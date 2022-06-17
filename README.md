@@ -1,4 +1,3 @@
-# ReadMe
 Hi 🖖 My name is Lucca
 ======================
 
