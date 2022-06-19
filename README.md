@@ -1,11 +1,11 @@
-Hi 🖖 My name is Lucca
+Hi 🖖 I am Lucca
 ======================
 
 Full Stack - Ruby on Rails
 --------------------------
 
 Learning to code for 1 year, finishing bootcamp at Le Wagon and becoming Full Stack
-
+* 💻  Looking fo Job
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [lucca.dittrich@gmail.com](mailto:lucca.dittrich@gmail.com)
 * 🧠  I'm learning Rails
