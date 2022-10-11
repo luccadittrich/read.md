@@ -7,6 +7,7 @@ Full Stack Dev - Ruby on Rails
 * 💻  Working at DocSales
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [lucca.dittrich@gmail.com](mailto:lucca.dittrich@gmail.com)
+* 💼  Visit my <a href="https://lucca-portfolio.herokuapp.com/">portfolio</a>
 
 ### Skills
 
