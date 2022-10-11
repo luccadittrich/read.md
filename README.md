@@ -1,13 +1,12 @@
 Hi 🖖 I am Lucca
 ======================
 
-Full Stack - Ruby on Rails
+Full Stack Dev - Ruby on Rails
 --------------------------
 
-* 💻   Looking for Job
+* 💻  Working at DocSales
 * 🌍  I'm based in Sao Paulo, Brazil
 * ✉️  You can contact me at [lucca.dittrich@gmail.com](mailto:lucca.dittrich@gmail.com)
-* 🧠  Learning Angular
 
 ### Skills
 
