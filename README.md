@@ -3,7 +3,7 @@ Hi 🖖 I am Lucca
 
 Full Stack Dev - Ruby on Rails
 --------------------------
-
+* 💎  Rubyist
 * 💻  Working at DocSales
 * 🌍  Based in Sao Paulo, Brazil
 * ✉️  You can contact me at [lucca.dittrich@gmail.com](mailto:lucca.dittrich@gmail.com)
