@@ -1,7 +1,9 @@
 <h2 align="left">Hello There!</h2>
 
-<p>Sou o Lucca, de São Paulo</p>
+<p>Sou o Lucca</p>
+<p>Atualmente, atuo no desenvolvimento de ferramentas e soluções personalizadas para CRM utilizando a plataforma Salesforce. Minha função envolve a criação e otimização de processos de negócios, automação de tarefas e integração de sistemas para melhorar a eficiência e a experiência do usuário final. Trabalho de forma colaborativa com equipes multidisciplinares para entender as necessidades dos clientes e transformar esses requisitos em soluções escaláveis e eficazes.</p>
 
+<p>Anteriormente, participei de um bootcamp onde adquiri habilidades com a Linguagem Ruby, o que me proporcionou uma base sólida em programação orientada a objetos. Além disso, trabalhei em uma startup focada em soluções de assinatura eletrônica de documentos, onde utilizei Python para desenvolver e implementar funcionalidades essenciais do sistema.</p>
 
 ###
 
